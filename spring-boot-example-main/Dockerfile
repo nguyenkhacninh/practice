@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17.0.5_8-jdk-focal
+FROM openjdk:17-jdk-slim
 
 COPY target/currency-service-0.0.1-SNAPSHOT.jar currency-service.jar
 
