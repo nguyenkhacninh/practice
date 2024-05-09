@@ -60,9 +60,9 @@ Swagger endpoint: [http://localhost:8081/swagger-ui/index.html](http://localhost
 
 OpenApi endpoint: [http://localhost:8081/v3/api-docs](http://localhost:8081/v3/api-docs)
 
-## log data
-## swagger-ui
-## i18n design
-## Able to run on Docker 
+* log data
+* swagger-ui
+* i18n design
+* Able to run on Docker 
 
 
